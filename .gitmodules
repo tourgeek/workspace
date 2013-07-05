@@ -55,3 +55,9 @@
 [submodule "jbundle/util/biorhythm"]
 	path = jbundle/util/biorhythm
 	url = https://github.com/jbundle/biorhythm
+[submodule "app/tourgeek-parent"]
+	path = app/tourgeek-parent
+	url = https://github.com/tourgeek/tourgeek-parent
+[submodule "app/tourgeek"]
+	path = app/tourgeek
+	url = https://github.com/tourgeek/tourgeek

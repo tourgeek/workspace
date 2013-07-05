@@ -12,7 +12,6 @@ skeleton_test_data*
 *.releaseBackup
 release.properties
 *.log
-/app/tour*
 /app/other
 *#*#
 

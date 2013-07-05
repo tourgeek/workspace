@@ -19,6 +19,8 @@
  
   <modules>
     <module>office</module>
+    <module>tourgeek-parent</module>
+    <module>tourgeek</module>
   </modules>
 
 </project>

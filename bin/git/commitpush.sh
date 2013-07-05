@@ -18,7 +18,9 @@ for dir in wrapped \
 ../../../jbundle/view/swing \
 ../../../jbundle/view/javafx \
 ../../../jbundle/view/android \
-../../../app/office; do
+../../../app/office \
+../tourgeek-parent \
+../tourgeek; do
 echo $dir
 cd $dir
 git add .
