@@ -19,6 +19,7 @@
   <modules>
     <module>jbundle</module>
     <module>app</module>
+    <module>wrapped</module>
     <module>artifacts</module>
   </modules>
 
