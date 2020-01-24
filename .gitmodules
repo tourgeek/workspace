@@ -61,3 +61,6 @@
 [submodule "app/tourgeek"]
 	path = app/tourgeek
 	url = https://github.com/tourgeek/tourgeek
+[submodule "docker"]
+	path = docker
+	url = https://github.com/jbundle/docker.git

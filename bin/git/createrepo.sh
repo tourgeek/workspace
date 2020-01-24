@@ -33,6 +33,7 @@ git push ../workspace master
 
 for dir in wrapped \
 artifacts \
+docker \
 jbundle/jbundle-parent \
 jbundle/jbundle \
 jbundle/app/office \

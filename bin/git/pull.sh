@@ -3,6 +3,7 @@ git pull
 
 for dir in wrapped \
 ../artifacts \
+../docker \
 ../jbundle/jbundle-parent \
 ../../jbundle/jbundle \
 ../util/biorhythm \
